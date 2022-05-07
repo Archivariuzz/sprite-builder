@@ -231,7 +231,7 @@ namespace SpriteGen
 			this.groupBox2.Size = new System.Drawing.Size(167, 77);
 			this.groupBox2.TabIndex = 7;
 			this.groupBox2.TabStop = false;
-			this.groupBox2.Text = "Размер";
+			this.groupBox2.Text = "Dimention";
 			// 
 			// label2
 			// 
@@ -395,12 +395,12 @@ namespace SpriteGen
 			this.previewBlankCtxtMenu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
 			this.добавитьToolStripMenuItem});
 			this.previewBlankCtxtMenu.Name = "previewBlankCtxtMenu";
-			this.previewBlankCtxtMenu.Size = new System.Drawing.Size(153, 48);
+			this.previewBlankCtxtMenu.Size = new System.Drawing.Size(142, 26);
 			// 
 			// добавитьToolStripMenuItem
 			// 
 			this.добавитьToolStripMenuItem.Name = "добавитьToolStripMenuItem";
-			this.добавитьToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+			this.добавитьToolStripMenuItem.Size = new System.Drawing.Size(141, 22);
 			this.добавитьToolStripMenuItem.Text = "Add pictures";
 			this.добавитьToolStripMenuItem.Click += new System.EventHandler(this.InsertPicPreviewMenuItemClick);
 			// 
