@@ -1,0 +1,6 @@
+C:\Users\Archivarius\Documents\SharpDevelop Projects\McSpriteGen\McSpriteGen\obj\Debug\McSpriteGen.csprojResolveAssemblyReference.cache
+C:\Users\Archivarius\Documents\SharpDevelop Projects\McSpriteGen\McSpriteGen\bin\Debug\McSpriteGen.exe.config
+C:\Users\Archivarius\Documents\SharpDevelop Projects\McSpriteGen\McSpriteGen\bin\Debug\McSpriteGen.exe
+C:\Users\Archivarius\Documents\SharpDevelop Projects\McSpriteGen\McSpriteGen\bin\Debug\McSpriteGen.pdb
+C:\Users\Archivarius\Documents\SharpDevelop Projects\McSpriteGen\McSpriteGen\obj\Debug\McSpriteGen.exe
+C:\Users\Archivarius\Documents\SharpDevelop Projects\McSpriteGen\McSpriteGen\obj\Debug\McSpriteGen.pdb
