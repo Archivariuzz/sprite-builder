@@ -1,5 +1,5 @@
 # sprite-builder
 
-Make C header with B/W images set data. It use with Adafruit modified library to show pictures at LCD B/W screen.
+Make C header with monochrome images set data. It use to show images at monochrome LCD screen.
 
 ![alt text](https://github.com/Archivariuzz/sprite-builder/blob/main/SpriteGen.jpg)
